@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\views\\libros\\listadopaginacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\views\\libros\\listadopaginacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\models\\generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\models\\generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|c:\\users\\51996\\onedrive\\escritorio\\poo_web03\\proyectodsw\\proyectodsw\\models\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC10B492-B53E-4DD3-B600-D7BF21E7D124}|ProyectoDSW\\ProyectoDSW.csproj|solutionrelative:proyectodsw\\models\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoDSW\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:00:38.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Views\\Libros\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoDSW\\Views\\Libros\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T17:03:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Views\\Libros\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoDSW\\Views\\Libros\\Delete.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:50:36.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Views\\Libros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Index.cshtml",
+              "RelativeToolTip": "ProyectoDSW\\Views\\Libros\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDsAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:21:32.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "ProyectoDSW\\Controllers\\LibrosController.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAMwCcBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:45:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Generos.cs",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Models\\Generos.cs",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Models\\Generos.cs",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Models\\Generos.cs",
+              "RelativeToolTip": "ProyectoDSW\\Models\\Generos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:28:04.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "listadoPaginacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\listadoPaginacion.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Views\\Libros\\listadoPaginacion.cshtml",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\listadoPaginacion.cshtml",
+              "RelativeToolTip": "ProyectoDSW\\Views\\Libros\\listadoPaginacion.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:40:21.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Views\\Libros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Create.cshtml",
+              "RelativeToolTip": "ProyectoDSW\\Views\\Libros\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T03:44:24.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Views\\Libros\\Details.cshtml",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Views\\Libros\\Details.cshtml",
+              "RelativeToolTip": "ProyectoDSW\\Views\\Libros\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T17:03:26.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Libros.cs",
+              "DocumentMoniker": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Models\\Libros.cs",
+              "RelativeDocumentMoniker": "ProyectoDSW\\Models\\Libros.cs",
+              "ToolTip": "C:\\Users\\51996\\OneDrive\\Escritorio\\POO_WEB03\\ProyectoDSW\\ProyectoDSW\\Models\\Libros.cs",
+              "RelativeToolTip": "ProyectoDSW\\Models\\Libros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:27:18.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
